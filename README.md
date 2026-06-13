@@ -1,2 +1,6 @@
-# MY-Portfolio-Website
-This portfolio serves as my personal developer profile to highlight my work, experience, and capabilities in a clean and professional way.
+🔥 Features:
+👨‍💻 About Me section to introduce myself
+🛠️ Skills showcase (Frontend, Backend, Tools, etc.)
+📂 Projects gallery with live/demo links
+📄 Resume download/view option
+📬 Contact form for direct communication
